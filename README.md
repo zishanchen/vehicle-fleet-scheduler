@@ -15,6 +15,7 @@ Ein interaktiver Fahrzeugplaner mit React und MUI, der Fahrzeugbuchungen in eine
 - Drag-and-Drop zum Verschieben von Buchungen zwischen Fahrzeugen und Zeiträumen
 - Größenänderung von Buchungen (Verlängern/Verkürzen) durch Ziehen der Ränder
 - Ansprechende Detailansicht bei Klick auf eine Buchung
+- Visuelle Validierung für Überschneidungen und Konflikte
 - Animationen für flüssige Übergänge
 
 ### Benutzeroberfläche und Bedienkomfort
@@ -82,7 +83,6 @@ vehicle-fleet-scheduler/
 - Verschiedene Buchungstypen und -stati für eine realistische Darstellung
 
 ## Zukünftige Erweiterungen
-- Visuelle Validierung für Überschneidungen und Konflikte
 - Tastaturkürzel für häufige Aktionen
 - Druckbare Ansicht des Planungskalenders
 - Unterschiedliche Farbschemata/Themes
